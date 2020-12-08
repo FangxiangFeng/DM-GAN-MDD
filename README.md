@@ -38,8 +38,8 @@ This project page provides pytorch code that implements the paper: "Modality Dis
     - `python google_drive.py 1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V DAMSMencoders/bird.zip`
 - [DAMSM for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ). Download and save it to `DAMSMencoders/`
     - `python google_drive.py 1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ DAMSMencoders/coco.zip`
-- [DM-GAN-MDD for bird](https://1drv.ms/u/s!Avd9cl0SDpNaa_CLoPqg68oMmb8?e=vWHhFC). Download and save it to `models`
-- [DM-GAN-MDD for coco](https://1drv.ms/u/s!Avd9cl0SDpNabjt3wvESmsYHO4o?e=WrWZUR). Download and save it to `models`
+- [DM-GAN-MDD for bird](https://drive.google.com/file/d/1TnKf-SKG06VxkvmpUe2anEIbOD5QsAva/view?usp=sharing). Download and save it to `models`
+- [DM-GAN-MDD for coco](https://drive.google.com/file/d/1eLHo-lM5-npx9RANdgKLmK_LiaoRBFsD/view?usp=sharing). Download and save it to `models`
 - [IS for bird](https://drive.google.com/file/d/0B3y_msrWZaXLMzNMNWhWdW0zVWs)
     - `python google_drive.py 0B3y_msrWZaXLMzNMNWhWdW0zVWs eval/IS/inception_finetuned_models.zip`
 - [FID for bird](https://drive.google.com/file/d/1747il5vnY2zNkmQ1x_8hySx537ZAJEtj)
